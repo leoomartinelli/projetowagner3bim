@@ -1,0 +1,10 @@
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\bin\Debug\projetoloja2.exe.config
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\bin\Debug\projetoloja2.exe
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\bin\Debug\projetoloja2.pdb
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.csproj.AssemblyReference.cache
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.Form1.resources
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.Properties.Resources.resources
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.csproj.GenerateResource.cache
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.csproj.CoreCompileInputs.cache
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.exe
+C:\Users\eduma\source\repos\projetoloja2\projetoloja2\obj\Debug\projetoloja2.pdb
